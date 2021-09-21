@@ -20,7 +20,7 @@ namespace Demo_Objects
         {
 
             Logger.Log();
-            Console.WriteLine("Customer Added!!");
+            Console.WriteLine("Customer Added!!!");
         }
     }
     interface ILogger
